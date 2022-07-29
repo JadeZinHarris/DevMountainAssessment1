@@ -10,7 +10,7 @@
 */
 
 //CODE HERE
-let gitDefinition = ''
+let gitDefinition = 'the start of a repository'
 //////////////////PROBLEM 2////////////////////
 /*
     Create a variable called 'gitHubDefinition'.  
@@ -18,7 +18,7 @@ let gitDefinition = ''
 */
 
 //CODE HERE
-let gitHubdefinition
+let gitHubdefinition ' a repository'
 //////////////////PROBLEM 3////////////////////
 /*
     Create a variable called 'gitInitDefinition'.  
@@ -26,7 +26,7 @@ let gitHubdefinition
 */
 
 //CODE HERE
-
+let gitInitDefinition ='Starts the repository'
 //////////////////PROBLEM 4////////////////////
 /*
     Create a variable called 'gitCloneDefinition'.  
@@ -34,7 +34,7 @@ let gitHubdefinition
 */
 
 //CODE HERE
-
+let gitCloneDefinition = 'clones the git repository'
 //////////////////PROBLEM 5////////////////////
 /*
     Create a variable called 'gitStatusDefinition'.  
@@ -42,7 +42,7 @@ let gitHubdefinition
 */
 
 //CODE HERE
-
+gitstatus = 'gets the status of the current git'
 //////////////////PROBLEM 6////////////////////
 /*
     Create a variable called 'gitAddDefinition'.  
@@ -53,7 +53,8 @@ let gitHubdefinition
 */
 
 //CODE HERE
-
+get add = 'adds copies'
+git addcode ='Adds code'
 //////////////////PROBLEM 7////////////////////
 /*
     Create a variable called 'gitCommitDefinition'.  
@@ -64,7 +65,8 @@ let gitHubdefinition
 */
 
 //CODE HERE
-
+git commit def = 'Commits a message'
+git code = 'Code the inital commit'
 
 //////////////////PROBLEM 8////////////////////
 /*
@@ -73,3 +75,4 @@ let gitHubdefinition
 */
 
 //CODE HERE
+gitpush = 'pushes git into another git'
